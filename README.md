@@ -5,7 +5,7 @@ Various classes using the Pi4J GPIO libraries to facilitate the use of different
 @Frederik Vermaete
 
 ___________________________________________
-(1) Keyes RGB LED Control (Common Cathode!)
+**(1) Keyes RGB LED Control (Common Cathode!)
 ___________________________________________
   v.0.1.3
   
@@ -15,9 +15,9 @@ ___________________________________________
 
 
 ________________________________
-(2) PIR Motion Detector HC-SR501
+**(2) PIR Motion Detector HC-SR501
 ________________________________
-  v.0.1.5
+  v.0.1.7
   
   Class: PIRMotionDetector.java
   
