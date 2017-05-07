@@ -1,6 +1,7 @@
 # Raspberry-Pi-Pi4J-Classes
 Various classes using the Pi4J GPIO libraries to facilitate the use of different sensors
 
+___________________________________________
 (1) Keyes RGB LED Control (Common Cathode!)
 ___________________________________________
 
@@ -8,8 +9,7 @@ ___________________________________________
   Class: KeyesRGBLEDControl.java
   Test Class: TestKeyesRGBLEDControl.java
 
-
-
+________________________________
 (2) PIR Motion Detector HC-SR501
 ________________________________
   v.0.1.5
