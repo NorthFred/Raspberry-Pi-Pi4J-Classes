@@ -33,3 +33,9 @@ ________________________________
   Test Class: TestPIRMotionListener.java [v.1.0.0]
   
   This test class implements a listener and event handler when a state change is triggered on the motion detector pin!
+  
+ 
+  Test Class: TestMotionDetectorWithLED.java
+  
+  Sensors (1) and (2) can be tested together with this test class. When motion is detected, LED turns red. 
+  When PIR sensor is free, LED is green.
