@@ -2,6 +2,8 @@
 
 Various classes using the Pi4J GPIO libraries to facilitate the use of different sensors
 
+@Frederik Vermaete
+
 ___________________________________________
 (1) Keyes RGB LED Control (Common Cathode!)
 ___________________________________________
@@ -20,12 +22,14 @@ ________________________________
   Class: PIRMotionDetector.java
   
   Test Class: TestPIRMotionDetector.java
+  
+  Test Class: TestPIRDelay.java [v.1.0.1]
 
 
   NOTE:
   The HC-SR501 detector has a screw to manually change the "delay" setting after HIGH status is triggered.
-  The test class "TestPIRDelay" can be used to measure this delay, by waving your hand in front of the sensor.
+  The test class "TestPIRDelay.java" can be used to measure this delay, by waving your hand in front of the sensor.
   
-  Test Class: TestPIRMotionListener.java
+  Test Class: TestPIRMotionListener.java [v.1.0.0]
   
   This test class implements a listener and event handler when a state change is triggered on the motion detector pin!
