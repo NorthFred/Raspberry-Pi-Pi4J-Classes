@@ -4,14 +4,11 @@
  * Uses Pi4J GPIO libraries (http://www.pi4j.com/)
  * 
  * @Frederik Vermaete 
- * @v.0.1.6 / 2017.05.07
+ * @v.0.1.7 / 2017.05.07
  */
 
 import com.pi4j.io.gpio.*;
 
-/*
- *  This class uses a GPIO pin state listener. 
- */
 
 public class PIRMotionDetector {
 
