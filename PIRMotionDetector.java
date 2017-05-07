@@ -4,12 +4,10 @@
  * Uses Pi4J GPIO libraries (http://www.pi4j.com/)
  * 
  * @Frederik Vermaete 
- * @v.0.1.5 / 2017.05.07
+ * @v.0.1.6 / 2017.05.07
  */
 
 import com.pi4j.io.gpio.*;
-import com.pi4j.io.gpio.event.GpioPinDigitalStateChangeEvent;
-import com.pi4j.io.gpio.event.GpioPinListenerDigital;
 
 /*
  *  This class uses a GPIO pin state listener. 
