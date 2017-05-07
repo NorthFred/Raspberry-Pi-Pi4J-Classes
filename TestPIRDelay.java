@@ -1,10 +1,10 @@
 /*
- * HC-SR501 PIR Motion Detector Sensitivity Checker
+ * HC-SR501 PIR Motion Detector: Delay Setting Checker.
  *
  * Uses Pi4J GPIO libraries (http://www.pi4j.com/)
  * 
  * @Frederik Vermaete 
- * @v.1.0.0 / 2017.05.07
+ * @v.1.0.1 / 2017.05.07
  * 
  * This script checks the delay value on the HC-SR501 Motion Detector.
  * The delay can be manually set by rotating a screw on the sensor,
